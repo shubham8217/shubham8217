@@ -1,96 +1,85 @@
 # 👾 Shubham Singh
 
-```bash
-> Initializing profile...
-> Loading skills...
-> Welcome to my world 🚀
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Hustler+%7C+Gamer;Building+Nitrix+Talent+Media;Always+in+Hacker+Mode+💻" />
+</p>
+
+---
 
 ## 🧠 About Me
 
-* 🎓 AI & Data Science Student (2nd Year)
-* 💼 Founder of **Nitrix Talent Media**
-* 🎥 Ex-YouTuber & Gamer Content Creator
-* 🤖 Passionate about AI, Cloud & Automation
-* 💸 Goal: 10 Lakh+ INR this year
-
----
-
-## ⚡ Skills & Tech Stack
-
-```txt
-💻 Languages      : Python, C, Java (Basics)
-🌐 Web            : HTML, CSS, JS (Learning)
-🤖 AI/ML          : Basics, Exploring Models
-☁️ Cloud          : Learning Phase
-🛠️ Tools          : Git, GitHub, Obsidian
-🎮 Extras         : Content Creation, Influencer Marketing
-```
-
----
-
-## 🕹️ Hacker Mode Activated
-
 ```bash
-while(alive){
-    eat();
-    code();
-    gym();
-    build_startups();
-    repeat();
-}
+> AI & Data Science Student
+> Founder @ Nitrix Talent Media
+> Building startups + AI systems
 ```
 
 ---
 
-## 🎯 Current Focus
+## ⚡ Tech Stack
 
-* 🚀 Building AI + IoT Projects (Hackathons)
-* 📱 Learning App Development (Kotlin)
-* 🤖 Exploring Agentic AI
-* 💼 Scaling Nitrix Talent Media
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,git,github" />
+</p>
 
 ---
 
-## 🧩 Fun Side
+## 🐍 Contribution Snake (LIVE ANIMATION)
 
-```txt
-🎮 Gamer Mindset ON
-💡 Ideas > Excuses
-📈 Hustle Mode 24x7
-🔥 Always Building Something New
-```
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Activity Graph
 
-```txt
-📩 Open for collaborations
-🎯 Let's build something crazy together
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
+</p>
+
+---
+
+## 🕶️ Hacker Mode
+
+```bash
+while(true){
+   code();
+   build();
+   repeat();
+}
 ```
 
 ---
 
-## 💀 Terminal Exit
+## 🌐 Connect
 
 ```bash
-> Status: Grinding...
-> Next Level: SUCCESS
+> Open for collaborations
+> Let’s build something crazy 🚀
+```
+
+---
+
+## 💀 Final Status
+
+```bash
+STATUS: LOADING SUCCESS...
+NEXT TARGET: LEVEL UP 🔥
 ```
