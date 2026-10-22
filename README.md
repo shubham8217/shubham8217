@@ -1,85 +1,29 @@
-# 👾 Shubham Singh
+# Hi, I'm Shubham 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Hustler+%7C+Gamer;Building+Cool+Stuff+with+AI;Always+in+Hacker+Mode+💻" />
-</p>
+AI & Data Science student building security tools, data pipelines and full-stack apps. I like projects that go from idea to something you can actually run.
 
----
+## Featured projects
 
-## 🧠 About Me
+| Project | What it does | Stack |
+|---|---|---|
+| [**Securex**](https://github.com/shubham8217/Securex) | Adaptive honeypot. Attackers get realistic multi-stage fake errors while every action is logged in a SHA-256 hash-chained, tamper-evident log. TensorFlow scores threats from Trusted to Critical, and a tarpit slows repeat offenders. Includes a live dashboard with a globe of attack origins. | Python, FastAPI, TensorFlow, MongoDB, React, Vite |
+| [**Chameleon Cybersecurity System**](https://github.com/shubham8217/Chameleon-Cybersecurity-System) | Active-defense platform with a progressive deception engine, real-time ML classification of SQLi and XSS, blockchain-style forensic logging, and a 3D React threat dashboard. | Python, React |
+| [**FoodRescue**](https://github.com/shubham8217/food-rescue) | Matches surplus food from restaurants and bakeries with nearby NGOs in Navi Mumbai. Ranks NGOs by distance, urgency and quantity fit, and tracks each donation to delivery. Built as an end-to-end data-engineering project. | FastAPI, PostgreSQL, MongoDB, RabbitMQ, Airflow, NiFi, Delta Lake, DuckDB, Elasticsearch, React, Docker |
+| [**SkillRunway AI**](https://github.com/shubham8217/skillrunaway.ai) | Reads a developer's resume in the browser and estimates how long each skill stays relevant, then suggests upskilling moves. No server or login. | React, TypeScript, Tailwind, Recharts |
 
-```bash
-> AI & Data Science Student
-> Founder @ Nitrix Talent Media
-> Passionate about AI, Tech & Startups
-```
+## Open source
+- Exploring [Kestra `plugin-git`](https://github.com/kestra-io/plugin-git) (Java), forked to work on a contribution.
 
----
+## Tech I use
+**Languages:** Python · JavaScript · TypeScript · Java · Dart · C
+**Web:** React · Vite · FastAPI · Tailwind
+**Data & ML:** TensorFlow · Polars · DuckDB · Airflow
+**Databases & infra:** PostgreSQL · MongoDB · RabbitMQ · Docker · GitHub Actions
 
-## ⚡ Tech Stack
+## Currently
+- Studying AI & Data Science
+- Building Nitrix Talent Media
+- Improving documentation, tests and demos for my projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham8217&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubham8217&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham8217&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Animation)
-
-<p align="center">
-  <img src="https://github.com/shubham8217/shubham8217/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🕶️ Hacker Mode
-
-```bash
-while(true){
-   code();
-   build();
-   repeat();
-}
-```
-
----
-
-## 🌐 Connect
-
-```bash
-> Open for collaborations
-> Let’s build something crazy 🚀
-```
-
----
-
-## 💀 Status
-
-```bash
-STATUS: ACTIVE 🚀
-NEXT TARGET: LEVEL UP 🔥
-```
+## Get in touch
+📧 shubham.s.8217@gmail.com
